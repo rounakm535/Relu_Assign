@@ -1,7 +1,7 @@
 import re
 import random
 import asyncio
-from typing import List, Dict, Set, Any
+from typing import List, Dict, Set, Any, Optional
 from urllib.parse import urlparse, urljoin
 import httpx
 from bs4 import BeautifulSoup
